@@ -1,0 +1,54 @@
+• Počet hráčov v systéme a úvodné poradie
+    Počet hráčov v systéme je prakticky neobmedzený. Úvodné poradie určí dosiahnutý výsledok v ľubovoľne zvolenej hre,
+    ktorej sa zúčastní čo najväčší počet hráčov. Každý nový hráč sa zaradí do tabuľky na posledné miesto.
+• Typy hier
+    Rozsah hier závisí od dohody hráčov. Odporúčané hry sú: 301, Cricket Cut, Ludo.
+• Počet a poradie hráčov v hre
+    Každej hry sa môže zúčastniť ľubovoľný počet hráčov, minimálne však 2. Poradie, v akom hráči nastúpia do hry, je určené
+    aktuálnym rankingom v obrátenom poradí, teda začína hráč, ktorý je v rebríčku najnižšie. Hráč, ktorý je v rebríčku naj-
+    vyššie ide ako posledný.
+• Vyhodnotenie hry
+    Určujúce je len dosiahnuté poradie v hre. Vyhodnocujú sa "mikrosúboje" dvoch hráčov, ktorí sú v rebríčku pri sebe, pričom
+    sa vždy začína od najvyššie postavených hráčov. V prípade nepárneho počtu hráčov, sa posledný hráč opakovane vyhodnotí
+    v porovnaní s aktuálne predposledným hráčom. V každej dvojici sa vyhodnotí poradie podľa dosiahnutého výseldku. Ak nižšie
+    postavený hráč v rebríčku porazí v hre vyššie postaveného hráča, vymenia si poradie v rebríčku. V opačnom prípade bude ich
+    postavenie v rebríčku nezmenené. Ďalej sa postupuje vyhodnotením nasledujúcej dvojice.
+    Príklad:
+    Hráči sú zoradení v rebríčku takto:
+    1. A
+    2. B
+    3. C
+    4. D
+    5. E
+    6. F
+    Hry sa zúčastnia hráči ABDEF. Na konci hry sa teda budú vyhodnocovať mikrosúboje dvojíc A-B, D-E a horší z dvojice D-E s hráčom F.
+    Ak teda poradie v hre skončilo:
+    1. E
+    2. A
+    3. D
+    4. F 
+    5. B,
+    bude vysledné poradie po hre nasledovné:
+    1. A - skončil lepšie ako B
+    2. B - skončil horšie ako A
+    3. C - hry sa nezúčastnil, zostáva teda na svojom mieste
+    4. E - skončil lepšie ako D
+    5. D - skončil horšie ako E a súčasne lepšie ako F
+    6. F - skončil horšie ako D
+• Bonusové body
+    Hráči môžu za svoj výkon získavať bonusové body, v šípkarskom žargóne nazývané "puntíky". 1 puntík získa hrač za každého hráča,
+    ktorého v poslednej hre porazil, t.j. skončil na lepšej pozícii ako daný hráč, a v rebríčku po vyhodnotení poradia sa daný hráč
+    nachádza nad ním, t.j. na vyššej pozícii.
+    V priklade uvedenom v predchádzajúcom bode pravidiel by bolo bonusové ohodnotenie nasledovné:
+    1. A - 0 puntíkov
+    2. B - 0 puntíkov
+    3. C - 0 puntíkov
+    4. E - 2 puntíky, lebo porazil aj hráčov A a B
+    5. D - 1 puntík, lebo porazil hráča B
+    6. F - 1 puntík, lebo porazil hráča B.   
+• Použitie bonusových bodov
+    Nazbierané bonusové body môžu hráči uplatniť vždy na konci hry počas vyhodnocovania poradia alebo po ňom. Použite puntíkov je
+    obranné alebo útočné. Obranné použitie znamená, že hráč môže zabrániť poklesu v rebríčku pri výmene s nižšie postaveným hráčom,
+    pričom sa spotrebujú 3 puntíky. Útočné použitie znamená, že hráč sa môže vymeniť s hráčom, ktorý je v rebríčku bezprostredne
+    nad ním, a to aj v prípade, že uvedený hráč sa nezúčastnil poslednej hry. Na výmenu na vyššiu priečku rebríčka je potrebných 5
+    puntíkov.
