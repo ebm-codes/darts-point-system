@@ -46,7 +46,8 @@
     4. E - 2 puntíky, lebo porazil aj hráčov A a B
     5. D - 1 puntík, lebo porazil hráča B
     6. F - 1 puntík, lebo porazil hráča B.
-    Každý víťaz hry, bez ohľadu na počet hráčov, ktorí sa hry zúčastnili, automaticky získa 1 puntík za 1. miesto.
+    Ak hru vyhrá hráč, ktorý je spomedzi všetkých účastníkov hry na začiatku hry najvyššie postavený v rebríčku, automaticky získa
+    1 puntík za "obhájenie" 1. miesta.
 • Použitie bonusových bodov
     Nazbierané bonusové body môžu hráči uplatniť vždy na konci hry počas vyhodnocovania poradia alebo po ňom. Použite puntíkov je
     obranné alebo útočné. Obranné použitie znamená, že hráč môže zabrániť poklesu v rebríčku pri výmene s nižšie postaveným hráčom,
