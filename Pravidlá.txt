@@ -53,14 +53,10 @@
     obranné alebo útočné. Obranné použitie znamená, že hráč môže zabrániť poklesu v rebríčku pri výmene s nižšie postaveným hráčom,
     pričom sa spotrebujú 3 puntíky. Útočné použitie znamená, že hráč sa môže vymeniť s hráčom, ktorý je v rebríčku bezprostredne
     nad ním, a to aj v prípade, že uvedený hráč sa nezúčastnil poslednej hry. Na výmenu na vyššiu priečku rebríčka je potrebných 5
-    puntíkov.
-•  Maximálný počet bodov je 10
-    Každý hráč môže mať na konte po ukončení hry, vyhodnotenia poradia a uplatnenia bodov na obranu alebo útok maximálne 10 bodov. 
-    Ak je počet bodov na konte hráča vyšší, je daný hráč povinný tieto body bezodkladne užiť na obranu, alebo na útok. Ak tak neučiní, 
-    všetky body presahujúce hranicu 10 sa mu odoberú.
-• Pravidlo vedomého vzostupu
-    Žiadny hráč nemá právo posúvať ľubovoľného iného hráča smerom hore v rebríčku bez jeho súhlasu. Hráč sa posúva smerom hore v rebríčku
-    iba na základe vlastnej vôle.
-• Pravidlo odmietania
-Po umyselnom odmietnutí hry sa hráčovi prideluje trestný bod (žltej farby). Po nazbieraní 2 trestných bodov sa hráčovi odoberá získaný
-regulérny bod z hry.
+    puntíkov. Rozhodnutie o použití bodov nie je možné vykonať za hráča v jeho neprítomnosti.
+• Maximálný počet bodov je 10
+    Každý hráč môže mať na konte po ukončení hry, vyhodnotení poradia a uplatnení bodov maximálne 10 bodov. Ak je počet bodov na konte
+    hráča vyšší, je daný hráč povinný tieto body buď okamžite použiť na útok alebo sa mu body nad povolenú hranicu odoberú.
+• Pravidlo odmietania účasti v hre
+    Po úmyselnom odmietnutí hry sa hráčovi prideľuje trestný bod. Po nazbieraní 2 trestných bodov sa hráčovi odoberá 1 bonusový bod
+    z hry.
