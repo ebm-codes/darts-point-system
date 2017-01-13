@@ -54,3 +54,17 @@
     pričom sa spotrebujú 3 puntíky. Útočné použitie znamená, že hráč sa môže vymeniť s hráčom, ktorý je v rebríčku bezprostredne
     nad ním, a to aj v prípade, že uvedený hráč sa nezúčastnil poslednej hry. Na výmenu na vyššiu priečku rebríčka je potrebných 5
     puntíkov.
+ •  Pravidlo vyhlásenia turnaja
+    Každý hráč alebo viacej hráčov môžu vyhlásit turnaj. Podmienkou je aby dal/li do fondu turnaja vecnú cenu, alebo viacej vecných     cien. U každé ceny určí pre aké je poradie. Začiatok turnaja musí byť vždy od pondelka. Vyhlásiť turnaj se musí do konce predchádzajúceho týždňa. Minimálna dľžka turnaja je jeden týždeň. Vyhlasujúci musí určiť dátum a hodinu ukončenia turnaja.  Na začiatku turnaja se vynuluje bodovacia tabuľa. Po skončení turnaja sa opäť vynuluje bodovacia tabuľa.
+       . Turnaj môže byť vyhlásený pre jednotlivcov, alebo pre družstvá. Ak je vyhlásený pre družstvá, nie je povinnosťou vyhlasujúceho/cich, aby zostavovali družstvá. 
+       . Vyhodnotenie turnaja, ak sa účastní družstvá je následujúce.
+            . Za jednotlivé umiestňenie získava družstvo nasledujúce bodové hodnotenie
+                    1. miesto:  10 bodov
+                    2. miesto:  8 bodov
+                    3. miesto:  6 body
+                    4. miesta:  4 body
+                    5. miesto:  3 body
+                    6. miesto:  2 bod
+                    7. miesto:  1 bod
+                    8. miesto:  0 bodov
+            . Ak majú dve družstvá rovnaký počet bodov, rozhoduje o jejich poradí najlepšie umiestňený hráč
