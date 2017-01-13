@@ -61,3 +61,6 @@
 • Pravidlo vedomého vzostupu
     Žiadny hráč nemá právo posúvať ľubovoľného iného hráča smerom hore v rebríčku bez jeho súhlasu. Hráč sa posúva smerom hore v rebríčku
     iba na základe vlastnej vôle.
+• Pravidlo odmietania
+Po umyselnom odmietnutí hry sa hráčovi prideluje trestný bod (žltej farby). Po nazbieraní 2 trestných bodov sa hráčovi odoberá získaný
+regulérny bod z hry.
